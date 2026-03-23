@@ -1,6 +1,6 @@
 ## Project Structure
 
-    Speech Assignment/
+    Speech_Assignment1/
     │
     ├── q1/
     │   ├── mfcc_manual.py
@@ -125,10 +125,7 @@ Output Shape:
 
 #### Spectral Leakage & SNR
 
-Window | SNR (dB) | Leakage
-Rectangular | 16.32 | 0.338
-Hamming | 15.00 | 0.429
-Hanning | 14.39 | 0.435
+![alt text](image.png)
 
 Observations:
 - Rectangular → higher SNR but more leakage  
@@ -196,7 +193,7 @@ Results:
 
 ---
 
-## Discussion
+## Key Insights
 
 - MFCC remains fundamental  
 - Deep learning overfits small datasets  
