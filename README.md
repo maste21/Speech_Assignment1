@@ -165,10 +165,7 @@ Analysis:
 
 #### Dataset Audit
 
-Attribute | Missing Data
-Gender | 15.1%
-Age | 54.8%
-Accent | 35.6%
+![alt text](image-1.png)
 
 #### Bias Observations
 
