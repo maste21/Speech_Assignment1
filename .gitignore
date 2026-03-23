@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+baseline.pt disentangled.pt fair_model.pt
+boundaries.npy frame_step.npy is_voiced.npy
+.cache/
+*.pyc
